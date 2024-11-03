@@ -1,8 +1,8 @@
 # WordPress REST API SDK for Laravel
 
-[![Actions Status](https://github.com/storipress/wordpress-sdk/workflows/Testing/badge.svg)](https://github.com/storipress/wordpress-sdk/actions)
-[![Latest Stable Version](https://poser.pugx.org/storipress/wordpress-sdk/v/stable)](https://packagist.org/packages/storipress/wordpress-sdk)
-[![License](https://poser.pugx.org/storipress/wordpress-sdk/license)](https://packagist.org/packages/storipress/wordpress-sdk)
+[![Actions Status](https://github.com/tuyenlaptrinh/wordpress-sdk/workflows/Testing/badge.svg)](https://github.com/tuyenlaptrinh/wordpress-sdk/actions)
+[![Latest Stable Version](https://poser.pugx.org/tuyenlaptrinh/wordpress-sdk/v/stable)](https://packagist.org/packages/tuyenlaptrinh/wordpress-sdk)
+[![License](https://poser.pugx.org/tuyenlaptrinh/wordpress-sdk/license)](https://packagist.org/packages/tuyenlaptrinh/wordpress-sdk)
 
 - [Version](#version)
 - [Installation](#installation)

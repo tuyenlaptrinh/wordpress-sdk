@@ -23,7 +23,7 @@
   "prefer-stable": true,
   "autoload": {
     "psr-4": {
-      "Storipress\\WordPress\\": "src/"
+      "Tuyenlaptrinh\\WordPress\\": "src/"
     }
   },
   "config": {
@@ -36,10 +36,10 @@
   "extra": {
     "laravel": {
       "aliases": {
-        "WordPress": "Storipress\\WordPress\\Facades\\WordPress"
+        "WordPress": "Tuyenlaptrinh\\WordPress\\Facades\\WordPress"
       },
       "providers": [
-        "Storipress\\WordPress\\WordPressServiceProvider"
+        "Tuyenlaptrinh\\WordPress\\WordPressServiceProvider"
       ]
     }
   }
