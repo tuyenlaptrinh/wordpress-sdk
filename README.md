@@ -24,7 +24,7 @@
 Install using composer
 
 ```sh
-composer require storipress/wordpress-sdk
+composer require tuyenlaptrinh/wordpress-sdk
 ```
 
 Done.
