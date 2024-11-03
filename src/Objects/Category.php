@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Storipress\WordPress\Objects;
+namespace Tuyenlaptrinh\WordPress\Objects;
 
 class Category extends WordPressObject
 {

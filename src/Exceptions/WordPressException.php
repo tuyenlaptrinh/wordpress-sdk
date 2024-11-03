@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Storipress\WordPress\Exceptions;
+namespace Tuyenlaptrinh\WordPress\Exceptions;
 
 use Exception as BaseException;
-use Storipress\WordPress\Objects\WordPressError;
+use Tuyenlaptrinh\WordPress\Objects\WordPressError;
 
 abstract class WordPressException extends BaseException
 {

@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Storipress\WordPress\Requests;
+namespace Tuyenlaptrinh\WordPress\Requests;
 
-use Storipress\WordPress\Exceptions\WordPressException;
-use Storipress\WordPress\Objects\PostRevision as PostRevisionObject;
+use Tuyenlaptrinh\WordPress\Exceptions\WordPressException;
+use Tuyenlaptrinh\WordPress\Objects\PostRevision as PostRevisionObject;
 
 class PostRevision extends Request
 {

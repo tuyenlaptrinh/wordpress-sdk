@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Storipress\WordPress\Requests;
+namespace Tuyenlaptrinh\WordPress\Requests;
 
-use Storipress\WordPress\Exceptions\WordPressException;
-use Storipress\WordPress\Objects\User as UserObject;
+use Tuyenlaptrinh\WordPress\Exceptions\WordPressException;
+use Tuyenlaptrinh\WordPress\Objects\User as UserObject;
 
 class User extends Request
 {

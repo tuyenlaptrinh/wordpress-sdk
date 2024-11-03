@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Storipress\WordPress\Requests;
+namespace Tuyenlaptrinh\WordPress\Requests;
 
 use Illuminate\Http\Client\PendingRequest;
 use stdClass;
-use Storipress\WordPress\Exceptions\WordPressException;
+use Tuyenlaptrinh\WordPress\Exceptions\WordPressException;
 
 class GeneralRequest extends Request
 {

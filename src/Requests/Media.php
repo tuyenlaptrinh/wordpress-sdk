@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Storipress\WordPress\Requests;
+namespace Tuyenlaptrinh\WordPress\Requests;
 
 use Illuminate\Http\UploadedFile;
-use Storipress\WordPress\Exceptions\WordPressException;
-use Storipress\WordPress\Objects\Media as MediaObject;
+use Tuyenlaptrinh\WordPress\Exceptions\WordPressException;
+use Tuyenlaptrinh\WordPress\Objects\Media as MediaObject;
 
 class Media extends Request
 {

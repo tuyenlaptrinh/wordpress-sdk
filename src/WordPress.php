@@ -2,17 +2,17 @@
 
 declare(strict_types=1);
 
-namespace Storipress\WordPress;
+namespace Tuyenlaptrinh\WordPress;
 
 use Illuminate\Http\Client\Factory;
-use Storipress\WordPress\Requests\Category;
-use Storipress\WordPress\Requests\GeneralRequest;
-use Storipress\WordPress\Requests\Media;
-use Storipress\WordPress\Requests\Post;
-use Storipress\WordPress\Requests\PostRevision;
-use Storipress\WordPress\Requests\Site;
-use Storipress\WordPress\Requests\Tag;
-use Storipress\WordPress\Requests\User;
+use Tuyenlaptrinh\WordPress\Requests\Category;
+use Tuyenlaptrinh\WordPress\Requests\GeneralRequest;
+use Tuyenlaptrinh\WordPress\Requests\Media;
+use Tuyenlaptrinh\WordPress\Requests\Post;
+use Tuyenlaptrinh\WordPress\Requests\PostRevision;
+use Tuyenlaptrinh\WordPress\Requests\Site;
+use Tuyenlaptrinh\WordPress\Requests\Tag;
+use Tuyenlaptrinh\WordPress\Requests\User;
 
 class WordPress
 {

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Storipress\WordPress\Exceptions;
+namespace Tuyenlaptrinh\WordPress\Exceptions;
 
 class InvalidUserIdException extends WordPressException
 {

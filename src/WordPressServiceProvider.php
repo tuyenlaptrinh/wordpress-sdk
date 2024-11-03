@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Storipress\WordPress;
+namespace Tuyenlaptrinh\WordPress;
 
 use Illuminate\Support\ServiceProvider;
 
